@@ -1,0 +1,5 @@
+[build]
+    functions = "functions"
+
+[dev]
+    environment = { NODE_ENV = "development" }
